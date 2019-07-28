@@ -1,0 +1,15 @@
+{
+  "name": "consultancy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass styles.scss css/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-sass": "^4.12.0",
+    "sass": "^1.22.3"
+  }
+}

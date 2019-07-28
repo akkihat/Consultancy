@@ -1,0 +1,8 @@
+body {
+  font-family: 'Karla', sans-serif;
+  line-height: 26px;
+  font-size: 15px; }
+
+.container-fluid .container .row .col-md-2 span {
+  font-size: 50px;
+  color: black; }
